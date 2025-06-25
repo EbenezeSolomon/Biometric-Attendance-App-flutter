@@ -22,4 +22,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/avatar.png
+    #- assets/avatar.png #commented out because file is missing 
+    #...rest of your pubspec.yaml
